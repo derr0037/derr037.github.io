@@ -28,5 +28,5 @@ header, main, footer {
         padding: 20px;
         margin-left: auto;
         margin-right: auto;
-        border: 2px;
+        border-bottom: 2px;
 }
