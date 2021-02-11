@@ -10,15 +10,9 @@
 
             <h1>Mitchell Derry</h1>
 
-            <div>
-
-            <a href="notes.html">
-
-                <button name="To Notes" type="button">Notes</button>
-
-            </a>
-
-            </div>
+            <nav>
+                <a href="notes.html">Notes</a>
+            </nav>
 
             <p>
                  My name is Mitchell and im a 19 year old student from Newmarket, Ontario. I enjoy skateboarding, 
