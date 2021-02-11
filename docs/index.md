@@ -1,10 +1,10 @@
 <html>
 
-    <head>
-        <title>First Assignment!</title>
-    </head>
-
     <body>
+
+    <head>
+        <title>Updated Website!</title>
+    </head>
 
         <main>
 
@@ -17,11 +17,28 @@
                 Impala and the Weeknd. 
             </p>
 
+            <h3>Hobbies</h3>
+
+            <ul>
+
+                <li>Skateboarding</li>
+
+                <li>Video Games</li>
+
+                <li>Music</li>
+
+                <li>Movies</li>
+
+                <li>Guitar (Elec, Bass)</li>
+            
+            </ul>
+            
             <p>
-                Im hoping this program will give me the skills I need to work freelance as a multimedia director.
-                My ideal job would be to work with online content creators on platforms like Youtube and Twitch.tv.
-                I would also enjoy working in advertising and marketing/ branding for small businesses, providing them 
-                the service they to get started.
+                Though I have prior experience coding with Java and Python, Im new to HTML and CSS. Im hoping this 
+                program will give me the skills I need to work freelance as a multimedia director. My ideal job would 
+                be to work with online content creators on platforms like Youtube and Twitch.tv. I would also enjoy 
+                working in advertising and marketing/ branding for small businesses, providing them the service 
+                they to get started.
             </p>
 
             <h3><em>"Get busy living, or get busy dying"</em><sup>[1]</sup></h3>
