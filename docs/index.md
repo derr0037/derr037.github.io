@@ -6,13 +6,22 @@
 
     <body>
 
-        <main>
+        <header>
 
             <h1>Mitchell Derry</h1>
 
             <nav>
-                <a href="notes.html">Notes</a>
+                <ul>
+                    <li> 
+                        <a href="https://derr0037.github.io/derr037.github.io/">Home</a>
+                        <a href="notes.html">Notes</a>
+                    </li>
+                </ul>
             </nav>
+
+        </header>
+
+        <main>
 
             <p>
                  My name is Mitchell and im a 19 year old student from Newmarket, Ontario. I enjoy skateboarding, 
