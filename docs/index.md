@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
     <head>
@@ -10,11 +11,15 @@
 
             <h1>Mitchell Derry</h1>
 
+            <div>
+
             <a href="notes.html">
 
                 <button name="To Notes" type="button">Notes</button>
 
             </a>
+
+            </div>
 
             <p>
                  My name is Mitchell and im a 19 year old student from Newmarket, Ontario. I enjoy skateboarding, 
@@ -22,6 +27,8 @@
                 from classic rock legends such as Led Zeppelin and Pink Floyd, to modern R&B artists like Tame
                 Impala and the Weeknd. 
             </p>
+
+            <img src="images/Image1.jpg" alt="Me infront of the animal kingdom sign" />
 
             <h3>Hobbies</h3>
 
