@@ -10,11 +10,15 @@
 
             <h1>Mitchell Derry</h1>
 
-            <form>
+            <a href="notes.html">
 
-            <input type=<a href="notes.html"></a> value="Notes">
+                <form>
 
-            </form>
+                    <input type="notes" value="Notes">
+
+                </form>
+
+            </a>
 
             <p>
                  My name is Mitchell and im a 19 year old student from Newmarket, Ontario. I enjoy skateboarding, 
