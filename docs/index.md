@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
     <head>
@@ -66,7 +65,7 @@
                 <p>Copyright deary 2021</p>
 
             </footer>
-            
+
         </main>
 
     </body>
