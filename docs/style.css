@@ -1,0 +1,23 @@
+body {
+    
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+
+    /* Short form (top, right, bottom, left*/
+    margin: 0, 0, 0, 0;
+
+    background-color: gray;
+
+
+
+    border-width: 1px;
+    border-style: dashed;
+    border-color: green;
+
+    /* or (last takes precedence)*/
+
+    border: 1px dashed #404040;
+
+}
