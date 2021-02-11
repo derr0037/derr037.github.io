@@ -10,6 +10,12 @@
 
             <h1>Mitchell Derry</h1>
 
+            <form>
+
+            <input type=<a href="notes.html"></a> value="Notes">
+
+            </form>
+
             <p>
                  My name is Mitchell and im a 19 year old student from Newmarket, Ontario. I enjoy skateboarding, 
                 video games, movies and music. I currently have a collection of 13 vinyl record albums ranging 
