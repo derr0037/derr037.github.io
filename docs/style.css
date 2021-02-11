@@ -32,9 +32,60 @@ header, main, footer {
 
 }
 
-.frontimage {
+ main img {
 
-    margin-left: auto;
-    margin-right: auto;
-    
+    margin-left: 240px;
+    border: 2px solid black;
+
+}
+
+main div {
+
+    padding: 5px;
+    padding-top: 0px;
+    background: #C0C0C0;
+
+}
+
+nav ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a:link,
+nav ul li a:visited{
+
+    text-decoration: none;
+    background: #404040;
+    color: white;
+    padding: 10px;
+
+}
+
+nav ul li a:hover{
+
+    background: #C0C0C0;
+
+    color: black;
+
+}
+
+nav ul li a.current{
+
+    opacity: 0.5;
+
+}
+
+footer div {
+
+    padding: 15px;
+    background: #C0C0C0;
+
 }
