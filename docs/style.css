@@ -10,8 +10,6 @@ body {
 
     background-color: gray;
 
-
-
     border-width: 1px;
     border-style: dashed;
     border-color: green;
@@ -23,10 +21,19 @@ body {
 }
 
 header, main, footer {
-        width: 960px;
-        background: white;
-        padding: 20px;
-        margin-left: auto;
-        margin-right: auto;
-        border-bottom: 2px;
+
+    width: 960px;
+    background: white;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 2px;
+
+}
+
+.frontimage {
+
+    margin-left: auto;
+    margin-right: auto;
+    
 }
