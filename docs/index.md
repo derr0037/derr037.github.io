@@ -1,10 +1,10 @@
 <html>
 
-    <body>
-
     <head>
         <title>Updated Website!</title>
     </head>
+
+    <body>
 
         <main>
 
@@ -12,11 +12,7 @@
 
             <a href="notes.html">
 
-                <form>
-
-                    <input type="notes" value="Notes">
-
-                </form>
+                <button name="To Notes" type="button">Notes</button>
 
             </a>
 
