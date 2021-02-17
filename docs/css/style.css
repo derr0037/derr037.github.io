@@ -18,6 +18,10 @@ body {
 
     border: 1px dashed #404040;
 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-size: 18px;
+
 }
 
 header, main, footer {
@@ -35,7 +39,6 @@ header, main, footer {
  main img {
 
     margin-left: 240px;
-    border: 2px solid black;
 
 }
 
@@ -87,5 +90,29 @@ footer div {
 
     padding: 15px;
     background: #C0C0C0;
+
+}
+
+h1.site-title {
+
+    color:crimson;
+
+}
+
+#myImage {
+
+    box-shadow:0px 0px 2px 1px black ;
+
+}
+
+div ul {
+
+list-style-type:square;
+
+}
+
+div ul :nth-child(odd) {
+
+    background-color: darkgray;
 
 }
